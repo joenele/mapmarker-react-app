@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mapmarker-react-app/static/css/main.dc4f3579.chunk.css",
+    "main.js": "/mapmarker-react-app/static/js/main.9c0b045d.chunk.js",
+    "main.js.map": "/mapmarker-react-app/static/js/main.9c0b045d.chunk.js.map",
+    "runtime-main.js": "/mapmarker-react-app/static/js/runtime-main.55874944.js",
+    "runtime-main.js.map": "/mapmarker-react-app/static/js/runtime-main.55874944.js.map",
+    "static/js/2.f04f4bcf.chunk.js": "/mapmarker-react-app/static/js/2.f04f4bcf.chunk.js",
+    "static/js/2.f04f4bcf.chunk.js.map": "/mapmarker-react-app/static/js/2.f04f4bcf.chunk.js.map",
+    "index.html": "/mapmarker-react-app/index.html",
+    "precache-manifest.0b1ffbefa5420d8e29e683c7f9031fb5.js": "/mapmarker-react-app/precache-manifest.0b1ffbefa5420d8e29e683c7f9031fb5.js",
+    "service-worker.js": "/mapmarker-react-app/service-worker.js",
+    "static/css/main.dc4f3579.chunk.css.map": "/mapmarker-react-app/static/css/main.dc4f3579.chunk.css.map",
+    "static/js/2.f04f4bcf.chunk.js.LICENSE.txt": "/mapmarker-react-app/static/js/2.f04f4bcf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55874944.js",
+    "static/js/2.f04f4bcf.chunk.js",
+    "static/css/main.dc4f3579.chunk.css",
+    "static/js/main.9c0b045d.chunk.js"
+  ]
+}
